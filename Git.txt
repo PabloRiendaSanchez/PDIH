@@ -1,0 +1,12 @@
+Paso 1 registrarse en git hub escribiendo el correo del centro, nombre de usuario lo que hay antes del 2025 en el correo.
+Paso 2 acepto el repositorio.
+Paso 3 instalo git.
+Paso 4 abro git Bash.
+Paso 5 git clone url del repositorio.
+Paso 6 ls  y cd repositorio.
+Paso 7 Abrir la carpeta clonada y copiar y pegar los archivos de la carpeta compartida con la MV a la carpeta clonada.
+Paso 8 git add .
+Paso 9 git commit - m "Entrega".
+Paso 9.5 la primera vez nos va a decir que ejecutemos dos comandos para decirle nuestro email y usuario (una vez los hagamos tendremos que volver a hacer el commit).
+Paso 10 git push.
+Paso 11 entrar a tu url del repositiorio con el navegador y comprobar que están subidos.
